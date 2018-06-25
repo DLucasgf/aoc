@@ -1,6 +1,7 @@
 id,value
-flare,
-flare.Organização,
-flare.Organização.cluster,
-flare.Biblioteca.graph,
-flare.Biblioteca.graph.BetweennessCentrality,3534
+OrganizacaoDaInformacao,
+OrganizacaoDaInformacao.TratamentoDaInformacao,
+OrganizacaoDaInformacao.Processos,
+OrganizacaoDaInformacao.Entrada de dados,
+OrganizacaoDaInformacao.Indexação,
+OrganizacaoDaInformacao.Manual,
