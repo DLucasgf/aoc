@@ -1,15 +1,14 @@
 id,value
 OrganizacaoDaInformação,
-OrganizacaoDaInformação.Tratamento da Informação,
-OrganizacaoDaInformação.Tratamento da Informação.Processos,
-OrganizacaoDaInformação.Tratamento da Informação.Processos.Entrada de dados,
-OrganizacaoDaInformação.Tratamento da Informação.Processos.Indexação,
-OrganizacaoDaInformação.Tratamento da Informação.Processos.Indexação.Manual,1
-OrganizacaoDaInformação.Tratamento da Informação.Processos.Indexação.Semi-automática,2
-OrganizacaoDaInformação.Tratamento da Informação.Processos.IndexaçãoAutomática,3
-OrganizacaoDaInformação.Tratamento da Informação.Vocabulário,
-OrganizacaoDaInformação.Tratamento da Informação.Vocabulário.Linguagem Natural,
-OrganizacaoDaInformação.Tratamento da Informação.Vocabulário.Linguagem Natural.Termos livres,4
-OrganizacaoDaInformação.Tratamento da Informação.Vocabulário.Linguagem Controlada,
-OrganizacaoDaInformação.Tratamento da Informação.Vocabulário.Linguagem Controlada.Tesauro,5
-
+OrganizacaoDaInformação.TratamentoDaInformação,
+OrganizacaoDaInformação.TratamentoDaInformação.Processos,
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.Entrada de dados,
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação,
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Manual,1
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Semi-automática,2
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.IndexaçãoAutomática,3
+OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário,
+OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural,
+OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural.Termos livres,4
+OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada,
+OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada.Tesauro,5
