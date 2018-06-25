@@ -2,13 +2,3 @@ id,value
 OrganizacaoDaInformação,
 OrganizacaoDaInformação.TratamentoDaInformação,
 OrganizacaoDaInformação.TratamentoDaInformação.Processos,
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.Entrada de dados,
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação,
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Manual,1
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Semi-automática,2
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.IndexaçãoAutomática,3
-OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário,
-OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural,
-OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural.Termos livres,4
-OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada,
-OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada.Tesauro,5
