@@ -36,7 +36,7 @@ body {
 }
 
 </style>
-<svg width="960" height="2000"></svg>
+<svg width="1200" height="2000"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -46,7 +46,7 @@ var svg = d3.select("svg"),
     g = svg.append("g").attr("transform", "translate(40,0)");
 
 var tree = d3.cluster()
-    .size([height, width]);
+    .size([height, width - 160]);
 
 var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
