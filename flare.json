@@ -1,16 +1,31 @@
 {
-    "name": "flare",
+    "name": "Taxonomia",
     "children": [
      {
-      "name": "analytics",
+      "name": "Organização da Informação",
       "children": [
        {
-        "name": "cluster",
+        "name": "Tratamento da Informação (representação da informação)",
         "children": [
-         {"name": "AgglomerativeCluster", "size": 3938},
-         {"name": "CommunityStructure", "size": 3812},
-         {"name": "HierarchicalCluster", "size": 6714},
-         {"name": "MergeEdge", "size": 743}
+         {
+             "name": "Processos",
+             "children": [
+                 { "name": "Entrada de Dados", "size": 3812},
+                 { "name": "Indexação", "size": 3812,
+                   "children": [
+                        { "name": "Manual", "size": 3812},
+                        { "name": "Semi-Automática", "size": 3812},
+                        { "name": "Automática", "size": 3812}
+                   ]
+                }
+                ]
+         },
+         {
+             "name": "Vocabulário", "size": 3812},
+         {
+             "name": "HierarchicalCluster", "size": 6714},
+         {
+             "name": "MergeEdge", "size": 743}
         ]
        },
        {
