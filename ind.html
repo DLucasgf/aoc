@@ -96,11 +96,6 @@ function update(source) {
       .attr("dx", 5.5)
       .text(function(d) { return d.data.name; });
 
-  nodeEnter.append("text")
-      .attr("dy", 3.5)
-      .attr("dx", 5.5)
-      .text(function(d) { return 'oi'; });
-
   // Transition nodes to their new position.
   nodeEnter.transition()
       .duration(duration)
