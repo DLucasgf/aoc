@@ -6,32 +6,43 @@ OrganizacaoDaInformação.TratamentoDaInformação.Processos.Entrada de dados,
 OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação,
 OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Manual,1
 OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Semi-automática,2
-OrganizacaoDaInformação.TratamentoDaInformação.Processos.IndexaçãoAutomática,3
+OrganizacaoDaInformação.TratamentoDaInformação.Processos.Indexação.Automática,3
 OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário,
 OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural,
 OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Natural.Termos livres,4
 OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada,
 OrganizacaoDaInformação.TratamentoDaInformação.Vocabulário.Linguagem Controlada.Tesauro,5
 OrganizacaoDaInformação.Recuperação da Informação,
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Revocação
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Precisão
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Relevância
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Dado
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Linguagem de consulta
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Recuperação de dados
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface com usuário
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Operadores booleanos
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Palavras-chave
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Truncagem
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Documento recuperado
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de linha de comando
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador.Usabilidade
-OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador.Acessibilidade
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Revocação,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Precisão,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Métricas.Relevância,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Dado,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Linguagem de consulta,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Componentes.Banco de dados.Recuperação de dados,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface com usuário,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Operadores booleanos,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Palavras-chave,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Estratégia de busca.Truncagem,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de busca.Documento recuperado,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface de linha de comando,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador.Usabilidade,
+OrganizacaoDaInformação.Recuperação da Informação.Sistemas de recuperação da informação.Interface.Interface humano-computador.Acessibilidade,
+Biblioteca,
+Desenvolvimento de coleções,
+Desenvolvimento de coleções.Documento,
+Desenvolvimento de coleções.Documento.Artigo,
+Desenvolvimento de coleções.Documento.Livro,
+Desenvolvimento de coleções.Base de dados,
+Desenvolvimento de coleções.Catálogo,
+Usuário,
+Usuário.Satisfação do usuário,
+Usuário.Necessidade de busca,
+Usuário.Treinamento de usuários,
