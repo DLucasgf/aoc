@@ -1,32 +1,54 @@
 {
     "name": "Taxonomia",
     "children": [
-     {
-      "name": "Organização da Informação",
-      "children": [
-       {
-        "name": "Tratamento da Informação (representação da informação)",
-        "children": [
-         {
-             "name": "Processos",
-             "children": [
-                 { "name": "Entrada de Dados", "size": 3812},
-                 { "name": "Indexação", "size": 3812,
-                   "children": [
-                        { "name": "Manual", "size": 3812},
-                        { "name": "Semi-Automática", "size": 3812},
-                        { "name": "Automática", "size": 3812}
-                   ]
-                }
-                ]
-         },
-         {
-             "name": "Vocabulário", "size": 3812},
-         {
-             "name": "HierarchicalCluster", "size": 6714},
-         {
-             "name": "MergeEdge", "size": 743}
-        ]
+        {
+            "name": "Organização da Informação",
+            "children": [
+                {
+                    "name": "Tratamento da Informação (representação da informação)",
+                    "children": [
+                        {
+                            "name": "Processos",
+                            "children": [
+                                {
+                                    "name": "Entrada de Dados", "size": 3812
+                                },
+                                {
+                                    "name": "Indexação", "size": 3812,
+                                    "children": [
+                                        {"name": "Manual", "size": 3812},
+                                        {"name": "Semi-Automática", "size": 3812},
+                                        {"name": "Automática", "size": 3812}
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vocabulário", "size": 3812,
+                            "children": [
+                                {
+                                    "name": "Linguagem Natural",
+                                    "children": [
+                                        {
+                                            "name": "Termos Livres", "size": 3000
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Linguagem Controlada",
+                                    "children": [
+                                        {
+                                            "name": "Tesauro", "size": 3000
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HierarchicalCluster", "size": 6714},
+                        {
+                            "name": "MergeEdge", "size": 743}
+                        ]
        },
        {
         "name": "graph",
