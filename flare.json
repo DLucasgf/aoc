@@ -137,7 +137,7 @@
         },
         {
             "name": "Biblioteca",
-            "chidren": [
+            "children": [
                 {
                     "name": "Desenvolvimento de coleções",
                     "children": [
