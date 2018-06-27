@@ -136,7 +136,7 @@
             ]
         },
         {
-            "name": "Biblioteca", "size": 3000,
+            "name": "Biblioteca",
             "chidren": [
                 {
                     "name": "Desenvolvimento de coleções",
