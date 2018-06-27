@@ -5,7 +5,7 @@
             "name": "Organização da Informação",
             "children": [
                 {
-                    "name": "Tratamento da Informação (representação da informação)",
+                    "name": "Tratamento da Informação (Representação da Informação)",
                     "children": [
                         {
                             "name": "Processos",
@@ -70,7 +70,7 @@
                                     "name": "Componentes",
                                     "children": [
                                         {
-                                            "name": "banco de Dados",
+                                            "name": "Banco de Dados",
                                             "children": [
                                                 {
                                                     "name": "Dado", "size": 3000
