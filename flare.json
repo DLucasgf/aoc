@@ -136,41 +136,43 @@
             ]
         },
         {
-            "name": "Biblioteca", "size": 3000
-        },
-        {
-            "name": "Desenvolvimento de coleções",
-            "children": [
+            "name": "Biblioteca", "size": 3000,
+            "chidren": [
                 {
-                    "name": "Documento", "size": 17010,
+                    "name": "Desenvolvimento de coleções",
                     "children": [
                         {
-                            "name": "Artigo", "size": 1983
+                            "name": "Documento", "size": 17010,
+                            "children": [
+                                {
+                                    "name": "Artigo", "size": 1983
+                                },
+                                {
+                                    "name": "Livro", "size": 2047
+                                }
+                            ]
                         },
                         {
-                            "name": "Livro", "size": 2047
+                            "name": "Base de dados"
+                        },
+                        {
+                            "name": "Catálogo", "size": 1041
                         }
                     ]
                 },
                 {
-                    "name": "Base de dados"
-                },
-                {
-                    "name": "Catálogo", "size": 1041
-                }
-            ]
-        },
-        {
-            "name": "Usuário",
-            "children": [
-                {
-                    "name": "Satisfação do usuário", "size": 1759
-                },
-                {
-                    "name": "Necessidade de Busca", "size": 2165
-                },
-                {
-                    "name": "Treinamento de usuários", "size": 586
+                    "name": "Usuário",
+                    "children": [
+                        {
+                            "name": "Satisfação do usuário", "size": 1759
+                        },
+                        {
+                            "name": "Necessidade de Busca", "size": 2165
+                        },
+                        {
+                            "name": "Treinamento de usuários", "size": 586
+                        }
+                    ]
                 }
             ]
         }
